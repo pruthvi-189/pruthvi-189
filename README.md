@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Pruthvi%20Narayana%20Reddy%20V&fontSize=45&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Pruthvi%20Narayana%20Reddy%20V&fontSize=50&color=0:0f2027,50:203a43,100:2c5364&fontColor=00f2ea&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Robotics+Enthusiast;Deep+Learning+Explorer;Building+Smart+AI+Systems&center=true&width=600&height=50&color=00f2ea&vCenter=true&size=25"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216655848-c7c36f23-1f1b-49c0-a87c-7dbcd4c99c5b.gif" width="80%" />
+
+</div>
 
 <h2>Artificial Intelligence & Machine Learning Engineer</h2>
 
