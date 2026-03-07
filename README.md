@@ -114,6 +114,10 @@ https://www.salesforce.com/trailblazer/nbum7q4liq49009jbj
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
+<a href="https://pruthvinarayanareddy.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
 </p>
 
 ---
