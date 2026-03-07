@@ -1,8 +1,11 @@
 <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Pruthvi%20Narayana%20Reddy%20V&fontSize=50&color=0:0f2027,50:203a43,100:2c5364&fontColor=00f2ea&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Pruthvi%20Narayana%20Reddy%20V&fontSize=50&color=0:1f1c2c,50:928dab,100:1f1c2c&fontColor=ffd700&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Robotics+Enthusiast;Deep+Learning+Explorer;Building+Smart+AI+Systems&center=true&width=600&height=50&color=00f2ea&vCenter=true&size=25"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Robotics+Builder;Smart+Systems+Explorer&center=true&width=600&height=50&color=ffd700&vCenter=true&size=25"/>
+
+</div>
 
 <br>
 
