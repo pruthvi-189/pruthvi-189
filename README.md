@@ -54,6 +54,7 @@ Currently working on:
 
 ## 🚀 Featured Project
 
+
 ### 🤖 Hand Mimic Robot
 
 A **CNN-based gesture recognition robotic arm** that mimics human hand movements.
