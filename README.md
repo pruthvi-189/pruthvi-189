@@ -34,9 +34,9 @@ My interests include:
 - 📊 Machine Learning Pipelines  
 - ⚡ AI powered automation
 
-Currently working on:
+Currently working as:
 
-**Gesture Driven Robotic Arm using CNN + Raspberry Pi**
+**Intern @ POSSPOLE **
 
 ---
 
